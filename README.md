@@ -1,2 +1,2 @@
 # Hellomac
-My first repository on GitHub.Testing my first project on my mac
+My first repository on GitHub.Testing first project on my mac
